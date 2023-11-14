@@ -2,6 +2,13 @@ hello world
 ================
 2023-11-14
 
+## Intro
+This was just added online 
+
+``` r
+summary(cars)
+```
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
