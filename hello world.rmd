@@ -1,7 +1,9 @@
 ---
 title: "hello world"
-output: html_document
 date: "2023-11-14"
+output:
+  html_document:
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
