@@ -24,3 +24,8 @@ summary(cars)
 #+ r label2
 mean(cars$speed)
 #+
+
+
+#+ r label2
+sd(cars$speed)
+#+
